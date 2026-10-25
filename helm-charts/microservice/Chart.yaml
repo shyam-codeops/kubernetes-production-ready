@@ -1,0 +1,15 @@
+apiVersion: v2
+name: microservice
+description: Production-Ready Microservice Helm Chart with hardened security, HPA, PDB, and TLS Ingress
+type: application
+version: 1.0.0
+appVersion: "1.25.0"
+keywords:
+  - kubernetes
+  - microservice
+  - devsecops
+  - production
+home: https://github.com/shyam-codeops/kubernetes-production-ready
+maintainers:
+  - name: Shyam Singh
+    email: shyam.s.ops@gmail.com

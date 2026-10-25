@@ -1,0 +1,20 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secrets & local env
+*.env
+*.secret.yaml
+kubeconfig
+*.key
+*.crt
+
+# Helm cache & packages
+*.tgz
+charts/*.tgz
+.helm/
+
+# Temporary files
+*.tmp
+*.bak
+.kube/
