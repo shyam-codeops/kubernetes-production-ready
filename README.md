@@ -154,7 +154,7 @@ helm upgrade --install payment-api ./helm-charts/microservice \
 
 **Shyam Singh**
 * GitHub: [@shyam-codeops](https://github.com/shyam-codeops)
-* Role: DevOps & DevSecOps Engineer
+* Role: DevOps Engineer
 
 ---
 
